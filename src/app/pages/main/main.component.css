@@ -1,0 +1,11 @@
+span {
+  font-family: "Rubik Burned", system-ui;
+}
+
+.main-text {
+  font-family: "Raleway", sans-serif;
+}
+
+.main-text__lower {
+  font-size: 18px;
+}

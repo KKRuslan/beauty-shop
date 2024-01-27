@@ -1,0 +1,9 @@
+button { 
+    font-family: 'Open Sans', sans-serif;
+}
+.header-name {
+  color: black;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: 'Rubik Burned', system-ui;
+}
